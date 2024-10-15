@@ -1,5 +1,8 @@
 package com.capg.entity;
 
+import javax.persistence.Entity;
+
+@Entity
 public class User {
 
    private long Id;
